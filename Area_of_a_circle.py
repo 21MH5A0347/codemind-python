@@ -1,3 +1,4 @@
-r=int(input())
-area=3.14*(r)**2
-print('%0.2f'%area)
+
+a=int(input())
+pi=3.14
+print(pi*(a**2))
